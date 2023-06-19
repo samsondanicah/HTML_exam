@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    font-family: "fantasy";
+}
+p{
+    text-align: center;
+    font-family: "fantasy";
+}
+#nav{
+    display: flex;
+    justify-content: flex-end;
+    background: black;
+    text-decoration: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 0px;
+    padding: 24px;
+}
